@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.camcars">
+	<class name="JCCar" table="ZJCCAR">
+        <id name="id" column="Z_PK">
+            <generator class="increment"/>
+        </id>
+        <property name="capacity" column="ZCAPACITY"/>
+        <property name="doorCount" column="ZDOORCOUNT"/>
+        <property name="gearbox" column="ZGEARBOX"/>
+        <property name="mileage" column="ZMILEAGE"/>
+        <property name="power" column="ZPOWER"/>
+        <property name="price" column="ZPRICE"/>
+        <property name="registration" column="ZREGISTRATION"/>
+        <property name="title" column="ZTITLE"/>
+        <property name="imageList" column="ZIMAGELIST"/>
+        <property name="listing" column="ZLISTING"/>
+        <many-to-one name="model" column="ZMODEL"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.camcars">
+	<class name="JCModel" table="ZJCModel">
+        <id name="id" column="Z_PK">
+            <generator class="increment"/>
+        </id>
+        <property name="name" column="ZNAME"/>
+        <property name="carType" column="ZCARTYPE"/>
+        <property name="fuelType" column="ZFUELTYPE"/>
+        <property name="seatCount" column="ZSEATCOUNT"/>
+        <many-to-one name="make" column="ZMAKE"/>
+        <set name="cars" cascade="all">
+          	<key column="ZMODEL"></key>  
+          	<one-to-many class="com.camcars.JCCar"/>
+		</set>
+    </class>
+</hibernate-mapping>

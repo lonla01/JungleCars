@@ -1,0 +1,639 @@
+<header>
+                <div class="wrapper">
+                    <h1>
+                        <a class="modeless" href="/">
+                            L'actualité économique et politique en Europe - RFI                        </a>
+                    </h1>
+                    <nav id="nav-main">
+                                                                            <ul>
+                                                                                                                    <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/" class="modeless" alt="accueil" title="Actualités, info, news en direct - Radio France Internationale - RFI">accueil</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/afrique/" class="modeless" alt="afrique" title="L'actualité économique et politique en Afrique et au Maghreb en direct - RFI">afrique</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                                                    <span>monde</span>
+                                                                                        <ul>
+                                                                                                                    <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/ameriques/" class="modeless" alt="amériques" title="L'actualité économique et politique aux Amériques en direct - RFI">amériques</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/asie/" class="modeless" alt="asie" title="L'actualité économique et politique en Asie et dans le Pacifique - RFI">asie</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/europe/" class="modeless active" alt="europe" title="L'actualité économique et politique en Europe - RFI">europe</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/moyen-orient/" class="modeless" alt="moyen orient" title="L'actualité économique et politique au Moyen Orient - RFI">moyen orient</a>
+                                                
+                                                                                    </li>
+                        </ul>
+
+                                                            </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/france/" class="modeless" alt="france" title="L'actualité économique et politique en France - RFI">france</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/economie/" class="modeless" alt="économie" title="L'actualité économique mondiale en direct - RFI">économie</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/culture/" class="modeless" alt="culture" title="L'actualité culturelle et artistique en direct - RFI">culture</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/sport/" class="modeless" alt="sports" title="Les dernières news et résultats sportifs en direct - RFI">sports</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                        
+                                                    <a href="http://afriquefoot.rfi.fr" target="_blank" class="modeless" alt="Afrique foot" title="Les dernières news et résultats sportifs en direct - RFI">Afrique foot</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/sciences/" class="modeless" alt="sciences" title="L'actualité scientifique en direct - RFI">sciences</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/tech/" class="modeless" alt="tech" title="L'actualités des nouvelles technologies - RFI">tech</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/emissions/" class="modeless" alt="émissions" title="Les émissions Radio France Internationale - RFI">émissions</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/videos/" class="modeless" alt="vidéos" title="Les vidéos Radio France Internationale - RFI">vidéos</a>
+                                                
+                                                                                    </li>
+                                                                                                            <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/blogs/" class="modeless" alt="blogs" title="Retrouvez tous les blogs des correspondants et des journalistes de la rédaction de RFI">blogs</a>
+                                                
+                                                                                    </li>
+                                                                                                                                                <li>
+                                            
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                    <a href="/hebdo/" class="modeless alt" alt="l'hebdo" title="L'HEBDO sur le web - RFI">l'hebdo</a>
+                                                
+                                                                                    </li>
+                        </ul>
+
+                                            </nav>
+                    <dialog class="h-search-bar">
+                                                    <form name="Search" method="get" action="/recherche/" id="sinequa-search-form"><div><label for="Search_term" class="required">Terme</label><input type="text" id="Search_term" name="Search[term]" required="required"></div><input type="hidden" id="Search_page" name="Search[page]" value="1"><div><button type="submit">Lancer la recherche</button></div><div><label class="required">Filters</label><div id="Search_filters"></div></div></form>
+                                            </dialog>
+
+                        <div>
+                    <ul class="h-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                    <a class="rfi-langue-francaise" title="Apprendre le français" href="http://www.rfi.fr/lffr/statiques/accueil_apprendre.asp" target="_blank">Apprendre le français</a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                    <a class="rfi-musique" title="RFI Musique" href="http://www.rfimusique.com" target="_blank">RFI Musique</a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                    <a class="h-search" title="recherche" href="#">recherche</a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                <li id="fmm-sites">
+                                                    <a title="France Médias Monde" href="#">France Médias Monde</a>
+                                                                                                                                                                                                                                                                    <ul class="h-fmm-sites">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="France 24" href="http://www.france24.com/fr" target="_blank">France 24</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="Monte Carlo Doualiya" href="http://www.mc-doualiya.com/" target="_blank">Monte Carlo Doualiya</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="Les Observateurs" href="http://observers.france24.com/fr" target="_blank">Les Observateurs</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="Académie" href="http://academie.france24-mcd-rfi.com/fr" target="_blank">Académie</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="France Médias Monde" href="http://www.francemediasmonde.com/" target="_blank">France Médias Monde</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="Atelier des médias" href="http://atelier.rfi.fr/" target="_blank">Atelier des médias</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                                                    <a title="Mondoblog" href="http://mondoblog.org/" target="_blank">Mondoblog</a>
+                                                                            </li>
+                                                            </ul>
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                        <li id="social-bar">
+                                                    <span class="btn-access">Se connecter</span>
+                                                                                                                                                                                                                                                                    <ul class="h-socials">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                    <a class="fb" href="#">Facebook</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                    <a class="tw" href="#">Twitter</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                    <a class="gp" href="#">Google+</a>
+                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li>
+                                                                                    <a class="ms" href="#">Microsoft</a>
+                                                                            </li>
+                                                            </ul>
+                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                    <a class="modeless" title="Newsletters" id="newsletter" href="/contenu/inscription-newsletter-rfi"></a>
+                                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                    <li>
+                                                    <a title="Bas débit" id="lowres" href="http://m.rfi.fr/">Bas débit</a>
+                                                                    </li>
+                            </ul>
+                                                                                                                                                                                                                                                                                                <div class="h-langs">
+                <a class="modeless" title="RFI en 12 langues" href="/contenu/12-langues/">RFI en 12 langues</a>
+            </div>
+            </div>
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <div id="player">
+                            <!-- div id="main-player" style="height: 0px" class="bsplayer-container"></div -->
+
+    
+<div class="pl-first-part">
+
+        <div class="pl-categories">
+        <ul>
+                                                                                                                                                                                                                                                <li data-stream="monde" class="bsplayer-processed">
+                    <a href="#">Direct Monde</a>
+                                    </li>
+                                                                                                                                                                                                                                                <li data-stream="afrique" class="bsplayer-processed">
+                    <a href="#">Direct Afrique</a>
+                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="pl-journaux">
+                    <a class="modeless" title="Tous les journaux" href="/rfi_news/">Journaux</a>
+                                            <ul>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li data-title="Dernier journal monde" data-stream="dernier_journal_monde" class="bsplayer-processed"><a href="#">Monde</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li data-title="Dernier journal Afrique" data-stream="dernier_journal_afrique" class="bsplayer-processed"><a href="#">Afrique</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li data-title="24H en France" data-stream="dernier_journal_24h_en_france" class="bsplayer-processed"><a href="#">France</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li data-title="Dernier journal Amériques" data-stream="dernier_journal_ameriques_haiti" class="bsplayer-processed"><a href="#">Amériques</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li data-title="Dernier journal en français facile" data-stream="dernier_journal_jff" class="bsplayer-processed"><a href="#">Français faci...</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a class="modeless" href="/rfi_news/">Tous les jour...</a></li>
+                                                    </ul>
+                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                    <li data-title="RFI Musique" data-stream="fil_musical" class="bsplayer-processed">
+                    <a href="#">Musique</a>
+                                    </li>
+                    </ul>
+    </div>
+    
+    <div class="pl-sound">
+    <div class="pl-volume">
+        <div id="volume" style="display: none;">
+            <div id="volume-range"></div>
+        </div>
+    </div>
+    <div class="pl-playing">
+        <img src="/bundles/aefhermesrfi/img/player_off.png?version=20150129155824">
+    </div>
+</div>
+
+<div class="pl-current-block">
+    <p id="amount">&nbsp;</p>
+    <div class="pl-current-seek">
+        <div class="pl-current">
+
+            <div class="pl-pause">
+                <a href="#" class="bsplayer-processed">Play</a>
+            </div>
+
+            <strong>
+                À l'écoute
+            </strong>
+            <span id="current_program_infos">Vous m'en direz des nouvelle…</span>
+        </div>
+        <div class="clear-both"></div>
+        <div id="seek-range"></div>
+    </div>
+</div>
+            <a href="#" title="Afficher le lecteur" class="pl-expand">Expand Player</a>
+    </div>
+
+        <div class="pl-second-part">
+                                                                                                                                                                                                                                                                                                                                                                            
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['guest-9C76BC0C-A7F3-4B13-86EF-BD9F7D59F8BD'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/modules\/actu\/201502\/INV_AFR_LONG_12-02_5h44_6h43_Severo_Moto.mp3"}]},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"9C76BC0C-A7F3-4B13-86EF-BD9F7D59F8BD","ns_st_ep":"L\u2019opposant \u00e9quato-guin\u00e9en Severo Moto d\u00e9nonce une \u00abCAN Ebola\u00bb","ns_st_pr":"Invit\u00e9 Afrique","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":"1","ns_st_dt":"2015-02-12","aef_streamtype_2":"od","aef_rep_global":"emission","aef_thema":"afrique,sports,guin\u00e9e \u00e9quatoriale,can 2015,christine muratet,invit\u00e9,invit\u00e9 afrique","aef_type_page1":"europe.defaut.defaut","aef_type_contenu1":"audio","aef_section1":"emission","aef_section2":"invite-afrique","aef_auteur":"Christine Muratet","aef_dpubli":"2015-02-12","aef_hpubli":"03:00","ns_st_li":0,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                                    <div class="pl-channel">
+                                                                    <a class="modal bsplayer-processed" id="player_listen_again" data-stream="guest-9C76BC0C-A7F3-4B13-86EF-BD9F7D59F8BD" data-title="Invité Afrique" href="http://www.rfi.fr/emission/20150212-severo-moto-can-guinee-equatoriale-nguema/" title="L’opposant équato-guinéen Severo Moto dénonce une «CAN Ebola»">Réécouter
+                    </a>
+                                <div class="clear-both"></div>
+                <div class="pl-texts">
+                    <h2>Invité Afrique</h2>
+                                            <a class="modal bsplayer-processed" data-stream="guest-9C76BC0C-A7F3-4B13-86EF-BD9F7D59F8BD" data-title="Invité Afrique" href="http://www.rfi.fr/emission/20150212-severo-moto-can-guinee-equatoriale-nguema/" title="L’opposant équato-guinéen Severo Moto dénonce une «CAN Ebola»">L’opposant équato-guinéen Severo Moto dénonce une «CAN Ebola»
+                        </a>
+                                    </div>
+                <div class="center-cropped center-cropped-processed" data-image="http://scd.rfi.fr/sites/filesrfi/dynimagecache/0/0/492/271/187/103/sites/images.rfi.fr/files/aef_image/000_PAR2003082962012_0_0.jpg" data-width="105" data-height="60" style="background-size: 105px; width: 105px; height: 60px; background-image: url(http://scd.rfi.fr/sites/filesrfi/dynimagecache/0/0/492/271/187/103/sites/images.rfi.fr/files/aef_image/000_PAR2003082962012_0_0.jpg);">
+                    <img src="http://scd.rfi.fr/sites/filesrfi/dynimagecache/0/0/492/271/187/103/sites/images.rfi.fr/files/aef_image/000_PAR2003082962012_0_0.jpg" alt="Severo Moto, le président du Parti du progrès en Guinée équatoriale." width="105">
+                </div>
+            </div>
+            
+    </div>
+    
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['monde'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/stream.rfi.fr\/rfimonde\/all\/rfimonde-64k.mp3"}]},"title":"direct Monde","is_live":1,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"monde","ns_st_ep":"monde","ns_st_pr":"live","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['afrique'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/stream.rfi.fr\/rfiafrique\/all\/rfiafrique-64k.mp3"}]},"title":"direct Afrique","is_live":1,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"afrique","ns_st_ep":"afrique","ns_st_pr":"afrique","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['dernier_journal_monde'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/last\/rfi_jrn_dernier_journal.mp3"}]},"title":"dernier journal Monde","is_live":0,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"dernier_journal_monde","ns_st_ep":"dernier_journal_monde","ns_st_pr":"dernier_journal_monde","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['dernier_journal_afrique'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/last\/rfi_jrn_dernier_afrique.mp3"}]},"title":"dernier journal Afrique","is_live":0,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_ci":"direct_rfi_francais","ns_st_cn":1,"ns_st_cl":0,"ns_st_pr":"live","ns_st_ep":"direct_rfi_francais","ns_st_dt":"2015-02-12","ns_st_ty":"video","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"ns_st_st":"rfi_francais","aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['dernier_journal_jff'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/last\/rfi_jrn_dernier_journal_fr_facile.mp3"}]},"title":"dernier journal en Fran\u00e7ais facile","is_live":0,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"dernier_journal_jff","ns_st_ep":"dernier_journal_jff","ns_st_pr":"dernier_journal_jff","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['dernier_journal_24h_en_france'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/last\/RFI_24H_en_france_1_1.mp3"}]},"title":"dernier journal France","is_live":0,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"dernier_journal_24h_en_france","ns_st_ep":"dernier_journal_24h_en_france","ns_st_pr":"dernier_journal_24h_en_france","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['dernier_journal_ameriques_haiti'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/last\/rfi_trn_dernier_ameriques_haiti.mp3"}]},"title":"dernier journal Am\u00e9riques - Ha\u00efti","is_live":0,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"dernier_journal_ameriques_haiti","ns_st_ep":"dernier_journal_ameriques_haiti","ns_st_pr":"dernier_journal_ameriques_haiti","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            
+        <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['fil_musical'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/stream.rfi.fr\/rfimusiquemonde\/all\/rfimusiquemonde-64k.mp3"}]},"title":"RFI Musique","is_live":1,"rolls":{"urlpre":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=0&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Votre+programme+commence+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1","urlpost":"http:\/\/ad4.liverail.com\/?LR_ADMAP=in::0&LR_VIDEO_POSITION=100%25&CACHEBUSTER=[TIMESTAMP]&LR_SKIP_MESSAGE=X&LR_SKIP_COUNTDOWN=Passer+dans+{COUNTDOWN}+s&LR_LAYOUT_SKIN_MESSAGE=Publicit\u00e9,+fin+dans+{COUNTDOWN}+secondes&LR_PUBLISHER_ID=16973&LR_SCHEMA=vast2-vpaid&LR_AUTOPLAY=0&LR_VERTICALS=rfi_fr_audio&LR_TITLE=RFI_title&LR_VIDEO_ID=RFI_videoID&LR_PARTNERS=&LR_LAYOUT_LINEAR_PAUSEONCLICKTHRU=0&LR_DISABLE_UDS=1&LR_TIMEOUT_ADSOURCE=5&LR_WATERFALL=1"},"is_active":1,"labels":{"now":"playingLive"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"fil_musical","ns_st_ep":"fil_musical","ns_st_pr":"fil_musical","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-02-12","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"rfi","aef_dpubli":"2015-02-12","aef_hpubli":"15:49","ns_st_li":1,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+
+    <div class="pl-wrapper" style="overflow: auto; height: 188px;">
+        <div class="pl-playbac">
+            <div id="playbac">
+    </div>
+<h2>&nbsp;</h2>
+        </div>
+        <div class="pl-tabs ">
+                            <ul class="pl-menu">
+                    <li class="active"><a href="#">Commentaires</a></li>
+                    <li><a href="#">Programmes</a></li>
+                </ul>
+                                        <div class="pl-tab">
+                                        
+    <div class="viafoura">
+                        <div data-vf-type="tool" data-vf-class="live" data-vf-title="comments_player_live" data-vf-url="http://www.rfi.fr/?query=player-live" data-section="fr"></div>
+    </div>
+
+                </div>
+                        <div class="pl-tab active">
+                                        <div class="pl-filter">
+                <label><input type="radio" name="pl-filter" class="pl-programs-menu-item" data-menu-item="1" checked=""> Monde</label>
+                <label><input type="radio" name="pl-filter" class="pl-programs-menu-item" data-menu-item="2"> Afrique</label>
+            </div>
+
+            <ol id="pl-programs-list-1" class="pl-programs-list active">
+                                                                                <li>
+                    <span>14:33 TU Vous m'en direz des nouvelles !</span>
+                </li>
+                                                                                <li>
+                    <span>15:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>15:10 TU Autour de la question</span>
+                </li>
+                                                                                <li>
+                    <span>15:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>15:33 TU Autour de la question</span>
+                </li>
+                                                                                <li>
+                    <span>16:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>16:10 TU Radio foot internationale</span>
+                </li>
+                                                                                <li>
+                    <span>16:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>16:33 TU Radio foot internationale</span>
+                </li>
+                                                                                <li>
+                    <span>17:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>17:10 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>17:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>17:33 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>17:40 TU Accents d'Europe</span>
+                </li>
+                                                                                <li>
+                    <span>18:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>18:10 TU Décryptage</span>
+                </li>
+                                                                                <li>
+                    <span>18:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>18:33 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>18:40 TU Débat du jour</span>
+                </li>
+                                                                                <li>
+                    <span>19:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>19:10 TU Grand reportage</span>
+                </li>
+                                                                                <li>
+                    <span>19:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>19:40 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>20:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>20:10 TU La bande passante</span>
+                </li>
+                    </ol>
+                <ol id="pl-programs-list-2" class="pl-programs-list">
+                                                                                <li>
+                    <span>14:33 TU Autour de la question</span>
+                </li>
+                                                                                <li>
+                    <span>15:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>15:10 TU Radio foot internationale</span>
+                </li>
+                                                                                <li>
+                    <span>15:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>15:33 TU Radio foot internationale</span>
+                </li>
+                                                                                <li>
+                    <span>16:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>16:10 TU Couleurs tropicales</span>
+                </li>
+                                                                                <li>
+                    <span>16:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>16:33 TU Couleurs tropicales</span>
+                </li>
+                                                                                <li>
+                    <span>17:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>17:10 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>17:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>17:33 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>17:40 TU Accents d'Europe</span>
+                </li>
+                                                                                <li>
+                    <span>18:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>18:10 TU Grand reportage</span>
+                </li>
+                                                                                <li>
+                    <span>18:30 TU Sessions d'information</span>
+                </li>
+                                                                                <li>
+                    <span>19:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>19:10 TU Décryptage</span>
+                </li>
+                                                                                <li>
+                    <span>19:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>19:40 TU Débat du jour</span>
+                </li>
+                                                                                <li>
+                    <span>20:00 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>20:10 TU La bande passante</span>
+                </li>
+                                                                                <li>
+                    <span>20:30 TU Journal</span>
+                </li>
+                                                                                <li>
+                    <span>20:33 TU La bande passante</span>
+                </li>
+                    </ol>
+    
+                            </div>
+        </div>
+        <div class="pl-recommended">
+            
+    <h2>Dernières émissions</h2>
+    <ul>
+                                                            
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['article04457999-01F6-44A5-9606-3870D7F66AC1'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/magazines\/r181\/danse_des_mots_20150212.mp3"}]},"photo_url":"\/bundles\/aefhermesrfi\/img\/image_generique_player_big.jpg?version=20150129155824","title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"04457999-01F6-44A5-9606-3870D7F66AC1","ns_st_ep":"Le Poulpe ","ns_st_pr":"Danse des mots","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":"1","ns_st_dt":"2015-02-12","aef_streamtype_2":"od","aef_rep_global":"emission","aef_thema":"culture,langue fran\u00e7aise,yvan amar,magazine,la danse des mots","aef_type_page1":"europe.defaut.defaut","aef_type_contenu1":"audio","aef_section1":"emission","aef_section2":"danse-mots","aef_auteur":"Yvan Amar","aef_dpubli":"2015-02-12","aef_hpubli":"14:33","ns_st_li":0,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            <li data-bo-type="edition" data-bo-nid="04457999-01F6-44A5-9606-3870D7F66AC1">
+                <a href="/emission/20150212-le-poulpe/" class="modal media">
+                                            <img src="http://scd.rfi.fr/sites/filesrfi/imagecache/hermes_infographie_carroussel_dossiers/sites/images.rfi.fr/files/aef_image/abbi%201_0.JPG" alt="media" width="150" height="85">
+                                    </a>
+                <div class="meta">
+                    <time datetime="15-02-12">12/02/15</time>
+                                        <span>Danse des mots</span>
+                </div>
+                <h3><a class="modal" href="/emission/20150212-le-poulpe/">Le Poulpe </a></h3>
+                <ul class="action">
+                    <li class="audio"><a href="#" data-title="Danse des mots" data-stream="article04457999-01F6-44A5-9606-3870D7F66AC1" data-player="main-player" class="bsplayer-processed">lire</a></li>
+                </ul>
+            </li>
+                                                        
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['article0F3AC418-11D7-43D0-B94E-CE0176D95D43'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/trancheshaiti\/r001\/tranche_haiti_le_rendez-vous_des_ameriques_et_d_haiti_20150212.mp3"}]},"photo_url":"\/bundles\/aefhermesrfi\/img\/image_generique_player_big.jpg?version=20150129155824","title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"0F3AC418-11D7-43D0-B94E-CE0176D95D43","ns_st_ep":"Frantz Duval, r\u00e9dacteur en chef du Nouvelliste","ns_st_pr":"Le Rendez-vous des Am\u00e9riques et d'Ha\u00efti","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":"1","ns_st_dt":"2015-02-12","aef_streamtype_2":"od","aef_rep_global":"emission","aef_thema":"am\u00e9riques,etats-unis,ha\u00efti,edmond sadaka,magazine,le rendez-vous des am\u00e9riques et d'ha\u00efti","aef_type_page1":"europe.defaut.defaut","aef_type_contenu1":"audio","aef_section1":"emission","aef_section2":"12h10-12h30-tu-tranche-ameriques-haiti","aef_auteur":"Edmond Sadaka","aef_dpubli":"2015-02-12","aef_hpubli":"14:10","ns_st_li":0,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            <li data-bo-type="edition" data-bo-nid="0F3AC418-11D7-43D0-B94E-CE0176D95D43">
+                <a href="/emission/20150212-frantz-duval-redacteur-chef-nouvelliste/" class="modal media">
+                                            <img src="http://scd.rfi.fr/sites/filesrfi/dynimagecache/184/145/286/141/177/87/sites/images.rfi.fr/files/aef_image/nouvelliste-logo_0.gif" alt="media" width="150" height="85">
+                                    </a>
+                <div class="meta">
+                    <time datetime="15-02-12">12/02/15</time>
+                                        <span>Le Rendez-vous des Amériques et d'Haïti</span>
+                </div>
+                <h3><a class="modal" href="/emission/20150212-frantz-duval-redacteur-chef-nouvelliste/">Frantz Duval, rédacteur en chef du Nouvelliste</a></h3>
+                <ul class="action">
+                    <li class="audio"><a href="#" data-title="Le Rendez-vous des Amériques et d'Haïti" data-stream="article0F3AC418-11D7-43D0-B94E-CE0176D95D43" data-player="main-player" class="bsplayer-processed">lire</a></li>
+                </ul>
+            </li>
+                                                        
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['article17D79221-61E9-46CF-A08A-7E2C4D813B66'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/magazines\/r181\/accents_d_europe_20150212.mp3"}]},"photo_url":"\/bundles\/aefhermesrfi\/img\/image_generique_player_big.jpg?version=20150129155824","title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"17D79221-61E9-46CF-A08A-7E2C4D813B66","ns_st_ep":"Bruxelles cherche \u00e0 dissuader les jeunes djihadistes","ns_st_pr":"Accents d'Europe","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":"1","ns_st_dt":"2015-02-12","aef_streamtype_2":"od","aef_rep_global":"emission","aef_thema":"europe,belgique,terrorisme,ukraine,russie,cin\u00e9ma,finlande,turquie,transport,cyclisme,laurent berthault,magazine,accents d'europe","aef_type_page1":"europe.defaut.defaut","aef_type_contenu1":"audio","aef_section1":"emission","aef_section2":"accents-europe","aef_auteur":"Laurent Berthault","aef_dpubli":"2015-02-12","aef_hpubli":"13:40","ns_st_li":0,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            <li data-bo-type="edition" data-bo-nid="17D79221-61E9-46CF-A08A-7E2C4D813B66">
+                <a href="/emission/20150212-bruxelles-cherche-dissuader-jeunes-djihadistes/" class="modal media">
+                                            <img src="http://scd.rfi.fr/sites/filesrfi/dynimagecache/0/46/3500/1721/177/87/sites/images.rfi.fr/files/aef_image/sharia4belgium%20verdict%20belgique%20terrorisme%20jihadistes_0.JPG" alt="media" width="150" height="85">
+                                    </a>
+                <div class="meta">
+                    <time datetime="15-02-12">12/02/15</time>
+                                        <span>Accents d'Europe</span>
+                </div>
+                <h3><a class="modal" href="/emission/20150212-bruxelles-cherche-dissuader-jeunes-djihadistes/">Bruxelles cherche à dissuader les jeunes djihadistes</a></h3>
+                <ul class="action">
+                    <li class="audio"><a href="#" data-title="Accents d'Europe" data-stream="article17D79221-61E9-46CF-A08A-7E2C4D813B66" data-player="main-player" class="bsplayer-processed">lire</a></li>
+                </ul>
+            </li>
+                                                        
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['articleD5FDD509-AA7F-441A-B9E3-B29DEB5C9F44'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/magazines\/r181\/7_milliards_de_voisins_20150212.mp3"}]},"photo_url":"\/bundles\/aefhermesrfi\/img\/image_generique_player_big.jpg?version=20150129155824","title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"D5FDD509-AA7F-441A-B9E3-B29DEB5C9F44","ns_st_ep":"Peut on encore croire au grand amour aujourd\u2019hui ? ","ns_st_pr":"7 milliards de voisins","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":"1","ns_st_dt":"2015-02-12","aef_streamtype_2":"od","aef_rep_global":"emission","aef_thema":"culture,emmanuelle bastide,magazine,7 milliards de voisins","aef_type_page1":"europe.defaut.defaut","aef_type_contenu1":"audio","aef_section1":"emission","aef_section2":"7-milliards-voisins","aef_auteur":"Emmanuelle Bastide","aef_dpubli":"2015-02-12","aef_hpubli":"11:10","ns_st_li":0,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            <li data-bo-type="edition" data-bo-nid="D5FDD509-AA7F-441A-B9E3-B29DEB5C9F44">
+                <a href="/emission/20150212-peut-on-encore-croire-grand-amour-aujourd-hui/" class="modal media">
+                                            <img src="http://scd.rfi.fr/sites/filesrfi/dynimagecache/0/513/3500/1721/177/87/sites/images.rfi.fr/files/aef_image/VALENTIN_PARIS_0.jpg" alt="media" width="150" height="85">
+                                    </a>
+                <div class="meta">
+                    <time datetime="15-02-12">12/02/15</time>
+                                        <span>7 milliards de voisins</span>
+                </div>
+                <h3><a class="modal" href="/emission/20150212-peut-on-encore-croire-grand-amour-aujourd-hui/">Peut on encore croire au grand amour aujourd’hui ? </a></h3>
+                <ul class="action">
+                    <li class="audio"><a href="#" data-title="7 milliards de voisins" data-stream="articleD5FDD509-AA7F-441A-B9E3-B29DEB5C9F44" data-player="main-player" class="bsplayer-processed">lire</a></li>
+                </ul>
+            </li>
+                                                        
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['article2104D63B-C6D7-47BC-92A7-5CE509857DD4'] = {"medias":{"media":{"type":"audio","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"audio\/mpeg","type":"audio"},"is_default":0,"source":"http:\/\/telechargement.rfi.fr\/rfi\/francais\/audio\/magazines\/r181\/priorite_sante_20150212.mp3"}]},"photo_url":"\/bundles\/aefhermesrfi\/img\/image_generique_player_big.jpg?version=20150129155824","title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"2104D63B-C6D7-47BC-92A7-5CE509857DD4","ns_st_ep":"Innovation dans la vision ","ns_st_pr":"Priorit\u00e9 sant\u00e9","ns_st_ty":"audio","ns_st_st":"rfi_francais","ns_st_pl":"rfi_francais","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":"1","ns_st_dt":"2015-02-12","aef_streamtype_2":"od","aef_rep_global":"emission","aef_thema":"science,sant\u00e9 et m\u00e9decine,sandrine mercier,magazine,priorit\u00e9 sant\u00e9","aef_type_page1":"europe.defaut.defaut","aef_type_contenu1":"audio","aef_section1":"emission","aef_section2":"priorite-sante","aef_auteur":"Sandrine Mercier","aef_dpubli":"2015-02-12","aef_hpubli":"10:10","ns_st_li":0,"aef_marque":"rfi","name":"europe.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"rfi_site","aef_version_environnement":"v2.11.8","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.rfi.fr\/europe\/?ns_campaign=RFI%2520FR2_Europe&ns_fee=0&ns_linkname=Generique%2520Luxembourg_Informations%2520Luxembourg&ns_mchannel=SEM&ns_source=Google","aef_page_provenance":"\/europe\/","aef_langue":"francais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+            <li data-bo-type="edition" data-bo-nid="2104D63B-C6D7-47BC-92A7-5CE509857DD4">
+                <a href="/emission/20150212-innovation-vision/" class="modal media">
+                                            <img src="http://scd.rfi.fr/sites/filesrfi/imagecache/hermes_infographie_carroussel_dossiers/sites/images.rfi.fr/files/aef_image/argus-ii-2_0_0.jpg" alt="media" width="150" height="85">
+                                    </a>
+                <div class="meta">
+                    <time datetime="15-02-12">12/02/15</time>
+                                        <span>Priorité santé</span>
+                </div>
+                <h3><a class="modal" href="/emission/20150212-innovation-vision/">Innovation dans la vision </a></h3>
+                <ul class="action">
+                    <li class="audio"><a href="#" data-title="Priorité santé" data-stream="article2104D63B-C6D7-47BC-92A7-5CE509857DD4" data-player="main-player" class="bsplayer-processed">lire</a></li>
+                </ul>
+            </li>
+                </ul>
+
+        </div>
+    </div>
+                                                                
+                        </div>
+                                    </div>
+                <div class="error_msg_block">
+    <noscript>
+        &lt;span class='error_msg error_msg_js'&gt;Pour une navigation optimale, le site de RFI nécessite l'activation de JavaScript dans votre navigateur.&lt;/span&gt;
+    </noscript>
+    <span class="error_msg error_msg_flash" style="display:none">Pour profiter pleinement des contenus multimédias, vous devez avoir le plugin Flash installé dans votre navigateur.</span>
+    <span class="error_msg error_msg_cookie" style="display:none">Pour pouvoir vous connecter, vous devez activer les cookies dans les paramètres de votre navigateur.</span>
+    <span class="error_msg error_msg_browser" style="display:none">Pour une navigation optimale, le site de RFI est compatible avec les navigateurs suivants : Internet Explorer 8 et +, Firefox 10 et +, Safari 3 et +, Chrome 17 et + etc.</span>
+</div>
+
+            </header>

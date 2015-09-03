@@ -1,0 +1,112 @@
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:f="http://java.sun.com/jsf/core"
+	  xmlns:ui="http://java.sun.com/jsf/facelets"
+	  xmlns:c="http://java.sun.com/jsp/jstl/core"
+	  xmlns:fn="http://java.sun.com/jsp/jstl/functions"
+	  xmlns:p="http://primefaces.org/ui">
+	  
+	 <f:metadata>
+        <f:viewParam name="carId" value="#{carPresenterBean.carId}" />
+        <f:viewAction action="#{carPresenterBean.carClicked}" />
+    </f:metadata>
+    
+	<h:head>
+		<title>Car Details Page - Cars for the Jungle</title>
+	</h:head>
+	
+    <h:body>
+    
+    	<ui:include src="banner.xhtml" />
+    	
+    	<h:form>
+    	<p:breadCrumb style="margin-top:10px">
+    		<p:menuitem value="Home" url="index.xhtml" /> <!-- This one will not show as it's the first -->
+    		<p:menuitem value="Home" url="index.xhtml" />
+    		<p:menuitem value="Present Car" url="car_details.xhtml" />
+    	</p:breadCrumb>
+    	</h:form>
+    	
+    	<h1>Chosen Car is #{carPresenterBean.car.title}</h1>
+    	<h:panelGrid columns="2" cellpadding="1" columnClasses="value,value" >
+
+    		<p:panel header="#{carPresenterBean.car.shortTitle}">
+    		<h:panelGrid columns="1" cellpadding="1" columnClasses="label,value" >
+    	
+            	<f:facet name="header">
+            		<p:galleria value="#{carPresenterBean.car.imageNames}" var="image" panelWidth="750" panelHeight="500" showCaption="true">
+    					<p:graphicImage value="#{image}" alt="Image Description for #{image}" title="#{image}"/>
+					</p:galleria>                		
+            	</f:facet>
+            						
+        	</h:panelGrid>
+        	</p:panel>
+        
+        	<!--  <h:panelGrid columns="1" cellpadding="1" columnClasses="label,value" > -->
+        	<p:tabView vertical-align="text-top" > 	
+        	
+        		<p:tab title="Description" >
+        	 	<p:panel header="Description" width="300" height="200">
+    			<h:panelGrid columns="2" cellpadding="3" columnClasses="label,value,value" >
+    	
+ 					<h:outputText value="Title: " />
+            		<h:outputText value="#{carPresenterBean.car.shortTitle}"/>           
+
+            		<h:outputText value="Year: " />
+            		<h:outputText value="#{carPresenterBean.car.registration}" />
+
+            		<h:outputText value="Mileage: " />
+            		<h:outputText value="#{carPresenterBean.car.mileage}" />
+
+            		<h:outputText value="Price: " />
+            		<h:outputText value="$#{carPresenterBean.car.price}" />
+            
+            		<h:outputText value="Capacity: " />
+            		<h:outputText value="$#{carPresenterBean.car.capacity}" />
+            
+            		<h:outputText value="Gearbox: " />
+            		<h:outputText value="#{carPresenterBean.car.gearbox}" />
+            
+            		<h:outputText value="Power: " />
+            		<h:outputText value="#{carPresenterBean.car.power}" />
+            		
+            		<h:outputText value="Fuel Type: " />
+            		<h:outputText value="#{carPresenterBean.car.model.fuelType}" />
+            
+            		<h:outputText value="Car Type: " />
+            		<h:outputText value="#{carPresenterBean.car.model.carType}" />
+            						
+        		</h:panelGrid>
+        		</p:panel>
+        		</p:tab>
+        		
+        		<p:tab title="Contact Form" >
+        		<h:form id="contact">
+        		<p:panel header="Contact Form" >
+    				<h:panelGrid columns="2" cellpadding="1" columnClasses="label,value" >
+    	
+ 						<h:outputText value="Name: " />
+            			<h:inputText value="#{contactBean.user.name}" />           
+
+            			<h:outputText value="Email: " />
+            			<h:inputText value="#{contactBean.user.email}" />
+
+            			<h:outputText value="Message: " />
+            			<p:inputTextarea rows="12" cols="33" value="#{contactBean.user.message}" />				  
+					         						
+        			</h:panelGrid>
+        			<p:commandButton value="Send Message" update="contact" icon="ui-icon-check" /> 
+        		</p:panel>
+        		</h:form>
+        		</p:tab>
+        		
+        	</p:tabView> 
+        	<!--   </h:panelGrid>       	 --> 
+    		
+        </h:panelGrid>
+    	
+    	<ui:include src="footer.xhtml" /> 
+    	
+    </h:body>
+    
+</html>

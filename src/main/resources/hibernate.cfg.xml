@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+
+   <session-factory>
+        <!-- Database connection settings -->
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/junglecars</property>
+        <property name="connection.username">junglecars</property>
+        <property name="connection.password">junglecars</property>
+
+        <!-- JDBC connection pool (use the built-in) -->
+        <property name="connection.pool_size">5</property>
+
+        <!-- SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">false</property>
+
+        <!-- Mapping files -->
+        <mapping resource="com/camcars/JCMake.hbm.xml"/>
+        <mapping resource="com/camcars/JCModel.hbm.xml"/>
+        <mapping resource="com/camcars/JCCar.hbm.xml"/>
+    </session-factory>
+
+</hibernate-configuration>
